@@ -1,0 +1,1596 @@
+
+└─$ pipenv install
+Creating a virtualenv for this project...
+Pipfile: /home/cook/Github/***/P
+Using default python from /usr/bin/python3 (3.11.5) to cre
+⠙ Creating virtual environment...created virtual environme
+  creator CPython3Posix(dest=/home/cook/.local/share/virtu
+  seeder FromAppData(download=False, pip=bundle, setuptool
+    added seed packages: pip==23.2.1, setuptools==68.2.2,
+  activators BashActivator,CShellActivator,FishActivator,N
+
+✔ Successfully created virtual environment!
+Virtualenv location: /home/cook/.local/share/virtualenvs/***
+requirements.txt found in
+/home/cook/Github/*** instead of
+Pipfile! Converting...
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/_wrap.py:26: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp39cj4_6p'
+mode='rb+' closefd=True>
+  word_length = _cell_len(word.rstrip())
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/_wrap.py:26: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpsrwend0o'
+mode='rb+' closefd=True>
+  word_length = _cell_len(word.rstrip())
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:759: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmps488lslv'
+mode='rb+' closefd=True>
+  extend_spans = new_text._spans.extend
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:759: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp27lg39yp'
+mode='rb+' closefd=True>
+  extend_spans = new_text._spans.extend
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:759: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpqr9z4k2x'
+mode='rb+' closefd=True>
+  extend_spans = new_text._spans.extend
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:759: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmplrk3shcl'
+mode='rb+' closefd=True>
+  extend_spans = new_text._spans.extend
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:759: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpdhxxify4'
+mode='rb+' closefd=True>
+  extend_spans = new_text._spans.extend
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpp2ltmv4a'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpxh9lc5g1'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp_rzwwytd'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpmflpexxk'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpur2w2hmb'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+⠼ Importing requirements...WARNING:pipenv.patched.pip._ven
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:950: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpta8zoouc'
+mode='rb+' closefd=True>
+  self._spans.extend(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:950: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp4sf6w7o0'
+mode='rb+' closefd=True>
+  self._spans.extend(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:950: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpupda5r0h'
+mode='rb+' closefd=True>
+  self._spans.extend(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:950: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpdu9w8r8a'
+mode='rb+' closefd=True>
+  self._spans.extend(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp7o8y2o__'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpivs7yugu'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpkteis5uc'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpzv51lq65'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:718: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmprl7pfo51'
+mode='rb+' closefd=True>
+  styles = tuple(style_map[_style_id] for _style_id in
+sorted(stack))
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:767: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpl0a1l2qv'
+mode='rb+' closefd=True>
+  extend_spans(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:767: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp4i8dxedb'
+mode='rb+' closefd=True>
+  extend_spans(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:767: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp35dkerh0'
+mode='rb+' closefd=True>
+  extend_spans(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:767: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpj5jtzgcd'
+mode='rb+' closefd=True>
+  extend_spans(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:767: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpx4yftpke'
+mode='rb+' closefd=True>
+  extend_spans(
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:726: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp3te35f_j'
+mode='rb+' closefd=True>
+  for (offset, leaving, style_id), (next_offset, _, _) in
+zip(spans, spans[1:]):
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:726: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpdh7jelve'
+mode='rb+' closefd=True>
+  for (offset, leaving, style_id), (next_offset, _, _) in
+zip(spans, spans[1:]):
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:726: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmpjtp4d7jb'
+mode='rb+' closefd=True>
+  for (offset, leaving, style_id), (next_offset, _, _) in
+zip(spans, spans[1:]):
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:726: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp5t9yt6de'
+mode='rb+' closefd=True>
+  for (offset, leaving, style_id), (next_offset, _, _) in
+zip(spans, spans[1:]):
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+/home/cook/.local/lib/python3.11/site-packages/pipenv/patc
+hed/pip/_vendor/rich/text.py:726: ResourceWarning:
+unclosed file <_io.FileIO name='/tmp/tmp2zh7xov2'
+mode='rb+' closefd=True>
+  for (offset, leaving, style_id), (next_offset, _, _) in
+zip(spans, spans[1:]):
+ResourceWarning: Enable tracemalloc to get the object
+allocation traceback
+✔ Success!
+Warning: Your Pipfile now contains pinned versions, if
+your requirements.txt did.
+We recommend updating your Pipfile to specify the "*"
+version, instead.
+Pipfile.lock not found, creating...
+/home/cook/.local/lib/python3.11/site-packages/pipenv/vend
+  super().__init__()
+ResourceWarning: Enable tracemalloc to get the object allo
+/home/cook/.local/lib/python3.11/site-packages/pipenv/vend
+  super().__init__()
+ResourceWarning: Enable tracemalloc to get the object allo
+/home/cook/.local/lib/python3.11/site-packages/pipenv/vend
+  super().__init__()
+ResourceWarning: Enable tracemalloc to get the object allo
+Locking [packages] dependencies...
+Building requirements...
+Resolving dependencies...
+✔ Success!
+Locking [dev-packages] dependencies...
+Updated Pipfile.lock (80f798e04a5288eecc1ca3dcecaeace284b3
+Installing dependencies from Pipfile.lock (c8bde8)...
+[pipenv.exceptions.InstallError]: Collecting argparse==1.4
+[pipenv.exceptions.InstallError]:   Using cached argparse-
+[pipenv.exceptions.InstallError]: Collecting async-generat
+[pipenv.exceptions.InstallError]:   Using cached async_gen
+[pipenv.exceptions.InstallError]: Collecting attrs==20.3.0
+[pipenv.exceptions.InstallError]:   Using cached attrs-20.
+[pipenv.exceptions.InstallError]: Collecting beautifulsoup
+[pipenv.exceptions.InstallError]:   Using cached beautiful
+[pipenv.exceptions.InstallError]: Collecting bs4==0.0.1 (f
+[pipenv.exceptions.InstallError]:   Using cached bs4-0.0.1
+[pipenv.exceptions.InstallError]: Collecting certifi==2020
+[pipenv.exceptions.InstallError]:   Using cached certifi-2
+[pipenv.exceptions.InstallError]: Collecting cffi==1.14.5
+[pipenv.exceptions.InstallError]:   Using cached cffi-1.14
+[pipenv.exceptions.InstallError]:   Preparing metadata (se
+[pipenv.exceptions.InstallError]:   Preparing metadata (se
+[pipenv.exceptions.InstallError]: Collecting chardet==4.0.
+[pipenv.exceptions.InstallError]:   Using cached chardet-4
+[pipenv.exceptions.InstallError]: Collecting cloudscraper=
+[pipenv.exceptions.InstallError]:   Using cached cloudscra
+[pipenv.exceptions.InstallError]: Collecting h11==0.12.0 (
+[pipenv.exceptions.InstallError]:   Using cached h11-0.12.
+[pipenv.exceptions.InstallError]: Collecting holehe==1.59.
+[pipenv.exceptions.InstallError]:   Using cached holehe-1.
+[pipenv.exceptions.InstallError]: Collecting httpcore==0.1
+[pipenv.exceptions.InstallError]:   Using cached httpcore-
+[pipenv.exceptions.InstallError]: Collecting httpx==0.17.1
+[pipenv.exceptions.InstallError]:   Using cached httpx-0.1
+[pipenv.exceptions.InstallError]: Collecting idna==2.10 (f
+[pipenv.exceptions.InstallError]:   Using cached idna-2.10
+[pipenv.exceptions.InstallError]: Collecting numpy==1.20.2
+[pipenv.exceptions.InstallError]:   Using cached numpy-1.2
+[pipenv.exceptions.InstallError]:   Installing build depen
+[pipenv.exceptions.InstallError]:   Installing build depen
+[pipenv.exceptions.InstallError]:   Getting requirements t
+[pipenv.exceptions.InstallError]:   Getting requirements t
+[pipenv.exceptions.InstallError]:   Preparing metadata (py
+[pipenv.exceptions.InstallError]:   Preparing metadata (py
+[pipenv.exceptions.InstallError]: Collecting outcome==1.1.
+[pipenv.exceptions.InstallError]:   Using cached outcome-1
+[pipenv.exceptions.InstallError]: Collecting pandas==1.2.3
+[pipenv.exceptions.InstallError]:   Using cached pandas-1.
+[pipenv.exceptions.InstallError]:   Installing build depen
+[pipenv.exceptions.InstallError]:   Installing build depen
+[pipenv.exceptions.InstallError]:   Getting requirements t
+[pipenv.exceptions.InstallError]:   Getting requirements t
+[pipenv.exceptions.InstallError]:   Preparing metadata (py
+[pipenv.exceptions.InstallError]:   Preparing metadata (py
+[pipenv.exceptions.InstallError]: Collecting pycparser==2.
+[pipenv.exceptions.InstallError]:   Using cached pycparser
+[pipenv.exceptions.InstallError]: Collecting pyparsing==2.
+[pipenv.exceptions.InstallError]:   Using cached pyparsing
+[pipenv.exceptions.InstallError]: Collecting pyqt5==5.15.4
+[pipenv.exceptions.InstallError]:   Using cached PyQt5-5.1
+[pipenv.exceptions.InstallError]: Collecting pyqt5-qt5==5.
+[pipenv.exceptions.InstallError]:   Using cached PyQt5_Qt5
+[pipenv.exceptions.InstallError]: Collecting pyqt5-sip==12
+[pipenv.exceptions.InstallError]:   Using cached PyQt5_sip
+[pipenv.exceptions.InstallError]:   Installing build depen
+[pipenv.exceptions.InstallError]:   Installing build depen
+[pipenv.exceptions.InstallError]:   Getting requirements t
+[pipenv.exceptions.InstallError]:   Getting requirements t
+[pipenv.exceptions.InstallError]:   Preparing metadata (py
+[pipenv.exceptions.InstallError]:   Preparing metadata (py
+[pipenv.exceptions.InstallError]: Collecting python-dateut
+[pipenv.exceptions.InstallError]:   Using cached python_da
+[pipenv.exceptions.InstallError]: Collecting pytz==2021.1
+[pipenv.exceptions.InstallError]:   Using cached pytz-2021
+[pipenv.exceptions.InstallError]: Collecting requests==2.2
+[pipenv.exceptions.InstallError]:   Using cached requests-
+[pipenv.exceptions.InstallError]: Collecting requests-tool
+[pipenv.exceptions.InstallError]:   Using cached requests_
+[pipenv.exceptions.InstallError]: Collecting rfc3986==1.4.
+[pipenv.exceptions.InstallError]:   Using cached rfc3986-1
+[pipenv.exceptions.InstallError]: Collecting six==1.15.0 (
+[pipenv.exceptions.InstallError]:   Using cached six-1.15.
+[pipenv.exceptions.InstallError]: Collecting sniffio==1.2.
+[pipenv.exceptions.InstallError]:   Using cached sniffio-1
+[pipenv.exceptions.InstallError]: Collecting sortedcontain
+[pipenv.exceptions.InstallError]:   Using cached sortedcon
+[pipenv.exceptions.InstallError]: Collecting soupsieve==2.
+[pipenv.exceptions.InstallError]:   Using cached soupsieve
+[pipenv.exceptions.InstallError]: Collecting termcolor==1.
+[pipenv.exceptions.InstallError]:   Using cached termcolor
+[pipenv.exceptions.InstallError]:   Preparing metadata (se
+[pipenv.exceptions.InstallError]:   Preparing metadata (se
+[pipenv.exceptions.InstallError]: Collecting tqdm==4.60.0
+[pipenv.exceptions.InstallError]:   Using cached tqdm-4.60
+[pipenv.exceptions.InstallError]: Collecting trio==0.18.0
+[pipenv.exceptions.InstallError]:   Using cached trio-0.18
+[pipenv.exceptions.InstallError]: Collecting urllib3==1.26
+[pipenv.exceptions.InstallError]:   Using cached urllib3-1
+[pipenv.exceptions.InstallError]: Building wheels for coll
+[pipenv.exceptions.InstallError]:   Building wheel for cff
+[pipenv.exceptions.InstallError]:   Building wheel for cff
+[pipenv.exceptions.InstallError]:   Created wheel for cffi
+[pipenv.exceptions.InstallError]:   Stored in directory: /
+[pipenv.exceptions.InstallError]:   Building wheel for num
+[pipenv.exceptions.InstallError]:   Building wheel for num
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Building wheel for pan
+[pipenv.exceptions.InstallError]:   Created wheel for pand
+[pipenv.exceptions.InstallError]:   Stored in directory: /
+[pipenv.exceptions.InstallError]:   Building wheel for pyq
+[pipenv.exceptions.InstallError]:   Building wheel for pyq
+[pipenv.exceptions.InstallError]:   Building wheel for ter
+[pipenv.exceptions.InstallError]:   Building wheel for ter
+[pipenv.exceptions.InstallError]:   Created wheel for term
+[pipenv.exceptions.InstallError]:   Stored in directory: /
+[pipenv.exceptions.InstallError]: Successfully built cffi
+[pipenv.exceptions.InstallError]: Failed to build numpy py
+[pipenv.exceptions.InstallError]: error: subprocess-exited
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:   × Building wheel for n
+[pipenv.exceptions.InstallError]:   │ exit code: 1
+[pipenv.exceptions.InstallError]:   ╰─> [1170 lines of out
+[pipenv.exceptions.InstallError]:       setup.py:66: Runti
+[pipenv.exceptions.InstallError]:         warnings.warn(
+[pipenv.exceptions.InstallError]:       Running from numpy
+[pipenv.exceptions.InstallError]:       numpy/random/_boun
+[pipenv.exceptions.InstallError]:       numpy/random/_pcg6
+[pipenv.exceptions.InstallError]:       numpy/random/_mt19
+[pipenv.exceptions.InstallError]:       numpy/random/_comm
+[pipenv.exceptions.InstallError]:       numpy/random/_sfc6
+[pipenv.exceptions.InstallError]:       numpy/random/mtran
+[pipenv.exceptions.InstallError]:       numpy/random/_phil
+[pipenv.exceptions.InstallError]:       numpy/random/_boun
+[pipenv.exceptions.InstallError]:       Processing numpy/r
+[pipenv.exceptions.InstallError]:       numpy/random/bit_g
+[pipenv.exceptions.InstallError]:       numpy/random/_gene
+[pipenv.exceptions.InstallError]:       Cythonizing source
+[pipenv.exceptions.InstallError]:       blas_opt_info:
+[pipenv.exceptions.InstallError]:       blas_mkl_info:
+[pipenv.exceptions.InstallError]:       customize UnixCCom
+[pipenv.exceptions.InstallError]:         libraries mkl_rt
+[pipenv.exceptions.InstallError]:         NOT AVAILABLE
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       blis_info:
+[pipenv.exceptions.InstallError]:         libraries blis n
+[pipenv.exceptions.InstallError]:         NOT AVAILABLE
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       openblas_info:
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating /tmp/tmph
+[pipenv.exceptions.InstallError]:       creating /tmp/tmph
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:         FOUND:
+[pipenv.exceptions.InstallError]:           libraries = ['
+[pipenv.exceptions.InstallError]:           library_dirs =
+[pipenv.exceptions.InstallError]:           language = c
+[pipenv.exceptions.InstallError]:           define_macros
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:         FOUND:
+[pipenv.exceptions.InstallError]:           libraries = ['
+[pipenv.exceptions.InstallError]:           library_dirs =
+[pipenv.exceptions.InstallError]:           language = c
+[pipenv.exceptions.InstallError]:           define_macros
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       non-existing path
+[pipenv.exceptions.InstallError]:       lapack_opt_info:
+[pipenv.exceptions.InstallError]:       lapack_mkl_info:
+[pipenv.exceptions.InstallError]:         libraries mkl_rt
+[pipenv.exceptions.InstallError]:         NOT AVAILABLE
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       openblas_lapack_in
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating /tmp/tmpx
+[pipenv.exceptions.InstallError]:       creating /tmp/tmpx
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:         FOUND:
+[pipenv.exceptions.InstallError]:           libraries = ['
+[pipenv.exceptions.InstallError]:           library_dirs =
+[pipenv.exceptions.InstallError]:           language = c
+[pipenv.exceptions.InstallError]:           define_macros
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:         FOUND:
+[pipenv.exceptions.InstallError]:           libraries = ['
+[pipenv.exceptions.InstallError]:           library_dirs =
+[pipenv.exceptions.InstallError]:           language = c
+[pipenv.exceptions.InstallError]:           define_macros
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       /tmp/pip-build-env
+[pipenv.exceptions.InstallError]:         warnings.warn(ms
+[pipenv.exceptions.InstallError]:       running bdist_whee
+[pipenv.exceptions.InstallError]:       running build
+[pipenv.exceptions.InstallError]:       running config_cc
+[pipenv.exceptions.InstallError]:       unifing config_cc,
+[pipenv.exceptions.InstallError]:       running config_fc
+[pipenv.exceptions.InstallError]:       unifing config_fc,
+[pipenv.exceptions.InstallError]:       running build_src
+[pipenv.exceptions.InstallError]:       build_src
+[pipenv.exceptions.InstallError]:       building py_module
+[pipenv.exceptions.InstallError]:       building library "
+[pipenv.exceptions.InstallError]:         adding 'build/sr
+[pipenv.exceptions.InstallError]:       None - nothing don
+[pipenv.exceptions.InstallError]:       building library "
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:         adding 'build/sr
+[pipenv.exceptions.InstallError]:         adding 'build/sr
+[pipenv.exceptions.InstallError]:       numpy.core - nothi
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:         adding 'build/sr
+[pipenv.exceptions.InstallError]:       numpy.core - nothi
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building extension
+[pipenv.exceptions.InstallError]:       building data_file
+[pipenv.exceptions.InstallError]:       build_src: buildin
+[pipenv.exceptions.InstallError]:       running build_py
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/__in
+[pipenv.exceptions.InstallError]:       copying numpy/_glo
+[pipenv.exceptions.InstallError]:       copying numpy/_pyt
+[pipenv.exceptions.InstallError]:       copying numpy/setu
+[pipenv.exceptions.InstallError]:       copying numpy/matl
+[pipenv.exceptions.InstallError]:       copying numpy/ctyp
+[pipenv.exceptions.InstallError]:       copying numpy/dual
+[pipenv.exceptions.InstallError]:       copying numpy/vers
+[pipenv.exceptions.InstallError]:       copying numpy/_dis
+[pipenv.exceptions.InstallError]:       copying numpy/conf
+[pipenv.exceptions.InstallError]:       copying build/src.
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/comp
+[pipenv.exceptions.InstallError]:       copying numpy/comp
+[pipenv.exceptions.InstallError]:       copying numpy/comp
+[pipenv.exceptions.InstallError]:       copying numpy/comp
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/comp
+[pipenv.exceptions.InstallError]:       copying numpy/comp
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       copying numpy/core
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying build/src.
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       copying numpy/dist
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/doc/
+[pipenv.exceptions.InstallError]:       copying numpy/doc/
+[pipenv.exceptions.InstallError]:       copying numpy/doc/
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       copying numpy/f2py
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       copying numpy/fft/
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       copying numpy/lib/
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       copying numpy/lina
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/ma/_
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/c
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/s
+[pipenv.exceptions.InstallError]:       copying numpy/ma/e
+[pipenv.exceptions.InstallError]:       copying numpy/ma/b
+[pipenv.exceptions.InstallError]:       copying numpy/ma/m
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       copying numpy/ma/t
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       copying numpy/matr
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       copying numpy/poly
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       copying numpy/rand
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       copying numpy/typi
+[pipenv.exceptions.InstallError]:       creating build/lib
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       copying numpy/test
+[pipenv.exceptions.InstallError]:       warning: build_py:
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       running build_clib
+[pipenv.exceptions.InstallError]:       customize UnixCCom
+[pipenv.exceptions.InstallError]:       customize UnixCCom
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating /tmp/tmp1
+[pipenv.exceptions.InstallError]:       creating /tmp/tmp1
+[pipenv.exceptions.InstallError]:       creating /tmp/tmp1
+[pipenv.exceptions.InstallError]:       creating /tmp/tmp1
+[pipenv.exceptions.InstallError]:       creating /tmp/tmp1
+[pipenv.exceptions.InstallError]:       creating /tmp/tmp1
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-O
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-W
+[pipenv.exceptions.InstallError]:       CCompilerOpt.__ini
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.__ini
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.dist_
+[pipenv.exceptions.InstallError]:       In file included f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:       In function ‘_mm51
+[pipenv.exceptions.InstallError]:           inlined from ‘
+[pipenv.exceptions.InstallError]:       /usr/lib/gcc/x86_6
+[pipenv.exceptions.InstallError]:         180 |   __builti
+[pipenv.exceptions.InstallError]:             |   ^~~~~~~~
+[pipenv.exceptions.InstallError]:         181 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       <built-in>: In fun
+[pipenv.exceptions.InstallError]:       <built-in>: note:
+[pipenv.exceptions.InstallError]:       /tmp/pip-install-8
+[pipenv.exceptions.InstallError]:           5 |     int ba
+[pipenv.exceptions.InstallError]:             |         ^~
+[pipenv.exceptions.InstallError]:       cc1: all warnings
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.cc_te
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.__ini
+[pipenv.exceptions.InstallError]:       CCompilerOpt.__ini
+[pipenv.exceptions.InstallError]:       CCompilerOpt.__ini
+[pipenv.exceptions.InstallError]:       CCompilerOpt._pars
+[pipenv.exceptions.InstallError]:       CCompilerOpt._pars
+[pipenv.exceptions.InstallError]:       CCompilerOpt.gener
+[pipenv.exceptions.InstallError]:       CCompilerOpt.gener
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       CCompilerOpt.featu
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       Detected changes o
+[pipenv.exceptions.InstallError]:       building 'npymath'
+[pipenv.exceptions.InstallError]:       compiling C source
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       building 'npyrando
+[pipenv.exceptions.InstallError]:       compiling C source
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       running build_ext
+[pipenv.exceptions.InstallError]:       customize UnixCCom
+[pipenv.exceptions.InstallError]:       customize UnixCCom
+[pipenv.exceptions.InstallError]:       CCompilerOpt.__ini
+[pipenv.exceptions.InstallError]:       CCompilerOpt.gener
+[pipenv.exceptions.InstallError]:       Detected changes o
+[pipenv.exceptions.InstallError]:       building 'numpy.co
+[pipenv.exceptions.InstallError]:       compiling C source
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       building 'numpy.co
+[pipenv.exceptions.InstallError]:       compiling C dispat
+[pipenv.exceptions.InstallError]:       CCompilerOpt.parse
+[pipenv.exceptions.InstallError]:       CCompilerOpt._pars
+[pipenv.exceptions.InstallError]:       CCompilerOpt._pars
+[pipenv.exceptions.InstallError]:       CCompilerOpt._pars
+[pipenv.exceptions.InstallError]:       CCompilerOpt._gene
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-O
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       compiling C source
+[pipenv.exceptions.InstallError]:       C compiler: x86_64
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       compile options: '
+[pipenv.exceptions.InstallError]:       extra options: '-m
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          65 |     Py_TYP
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         294 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:         295 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         289 |     free(p
+[pipenv.exceptions.InstallError]:             |     ^~~~~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         319 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:         320 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         310 |     result
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         312 |         Py
+[pipenv.exceptions.InstallError]:             |         ^~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         310 |     result
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       In file included f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:       numpy/core/include
+[pipenv.exceptions.InstallError]:          27 | #define NP
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        1941 |         Py
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       In file included f
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          72 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        1942 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          73 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        1943 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          74 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        1982 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          79 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        1983 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          80 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        1984 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:          81 |         Py
+[pipenv.exceptions.InstallError]:             |         ~~
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        2032 |     NIT_BA
+[pipenv.exceptions.InstallError]:       In file included f
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         148 |     char i
+[pipenv.exceptions.InstallError]:             |          ^
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:         767 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       In file included f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:           7 |     Py_DEP
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3175 |     return
+[pipenv.exceptions.InstallError]:       In file included f
+[pipenv.exceptions.InstallError]:                        f
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3175 |     return
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3183 |     hashre
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:        3184 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3183 |     hashre
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3189 |     hashim
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:        3190 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3189 |     hashim
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3175 |     return
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3175 |     return
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3183 |     hashre
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:        3184 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3183 |     hashre
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3189 |     hashim
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:        3190 |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3189 |     hashim
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3205 |     return
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3205 |     return
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       /usr/include/pytho
+[pipenv.exceptions.InstallError]:          10 | PyAPI_FUNC
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3176 | }
+[pipenv.exceptions.InstallError]:             | ^
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3176 | }
+[pipenv.exceptions.InstallError]:             | ^
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:       numpy/core/src/mul
+[pipenv.exceptions.InstallError]:        3206 | }
+[pipenv.exceptions.InstallError]:             | ^
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       error: Command "x8
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       ########### EXT CO
+[pipenv.exceptions.InstallError]:       Platform      :
+[pipenv.exceptions.InstallError]:         Architecture: x6
+[pipenv.exceptions.InstallError]:         Compiler    : gc
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       CPU baseline  :
+[pipenv.exceptions.InstallError]:         Requested   : 'm
+[pipenv.exceptions.InstallError]:         Enabled     : SS
+[pipenv.exceptions.InstallError]:         Flags       : -m
+[pipenv.exceptions.InstallError]:         Extra checks: no
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       CPU dispatch  :
+[pipenv.exceptions.InstallError]:         Requested   : 'm
+[pipenv.exceptions.InstallError]:         Enabled     : SS
+[pipenv.exceptions.InstallError]:         Generated   : no
+[pipenv.exceptions.InstallError]:       CCompilerOpt._cach
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       ########### CLIB C
+[pipenv.exceptions.InstallError]:       Platform      :
+[pipenv.exceptions.InstallError]:         Architecture: x6
+[pipenv.exceptions.InstallError]:         Compiler    : gc
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       CPU baseline  :
+[pipenv.exceptions.InstallError]:         Requested   : 'm
+[pipenv.exceptions.InstallError]:         Enabled     : SS
+[pipenv.exceptions.InstallError]:         Flags       : -m
+[pipenv.exceptions.InstallError]:         Extra checks: no
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:       CPU dispatch  :
+[pipenv.exceptions.InstallError]:         Requested   : 'm
+[pipenv.exceptions.InstallError]:         Enabled     : SS
+[pipenv.exceptions.InstallError]:         Generated   : no
+[pipenv.exceptions.InstallError]:       CCompilerOpt._cach
+[pipenv.exceptions.InstallError]:       [end of output]
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:   note: This error origi
+[pipenv.exceptions.InstallError]:   ERROR: Failed building
+[pipenv.exceptions.InstallError]:   error: subprocess-exit
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:   × Building wheel for p
+[pipenv.exceptions.InstallError]:   │ exit code: 1
+[pipenv.exceptions.InstallError]:   ╰─> [18 lines of outpu
+[pipenv.exceptions.InstallError]:       running bdist_whee
+[pipenv.exceptions.InstallError]:       running build
+[pipenv.exceptions.InstallError]:       running build_ext
+[pipenv.exceptions.InstallError]:       building 'PyQt5.si
+[pipenv.exceptions.InstallError]:       creating build
+[pipenv.exceptions.InstallError]:       creating build/tem
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       x86_64-linux-gnu-g
+[pipenv.exceptions.InstallError]:       siplib.c: In funct
+[pipenv.exceptions.InstallError]:       siplib.c:12751:22:
+[pipenv.exceptions.InstallError]:       12751 |         fr
+[pipenv.exceptions.InstallError]:             |
+[pipenv.exceptions.InstallError]:       error: command '/u
+[pipenv.exceptions.InstallError]:       [end of output]
+[pipenv.exceptions.InstallError]:
+[pipenv.exceptions.InstallError]:   note: This error originates from a subprocess, and is likely not a problem with pip.
+[pipenv.exceptions.InstallError]:   ERROR: Failed building wheel for pyqt5-sip
+[pipenv.exceptions.InstallError]: ERROR: Could not build wheels for numpy, pyqt5-sip, which is required to install pyproject.toml-based projects
+ERROR: Couldn't install package: {}
+ Package installation failed...
